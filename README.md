@@ -8,7 +8,7 @@ I'm passionate about Artificial Intelligence, Machine Learning, and building imp
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science Student
+- 🎓 Computer Science (Artificial Intelligence)
 - 🤖  AI & Machine Learning
 - 🌱 Currently exploring OpenCV and Generative AI
 - 💻 Building Web Applications
