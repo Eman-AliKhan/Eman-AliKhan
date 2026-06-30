@@ -33,3 +33,9 @@ I'm passionate about Artificial Intelligence, Machine Learning, and building imp
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-blue?style=for-the-badge)
+
+## 📊 GitHub Stats
+
+![Eman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eman-AliKhan&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eman-AliKhan&layout=compact&theme=tokyonight)
