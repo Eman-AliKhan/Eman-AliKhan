@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Eman Ali Khan
 
-<!--
-**Eman-AliKhan/Eman-AliKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 AI Engineer | Machine Learning Enthusiast | Web Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about Artificial Intelligence, Machine Learning, and building impactful software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Student
+- 🤖  AI & Machine Learning
+- 🌱 Currently exploring OpenCV and Generative AI
+- 💻 Building Web Applications
+- 🚀 Always learning new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- React
+- SQL
+- Git
