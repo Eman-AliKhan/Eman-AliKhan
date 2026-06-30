@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Eman+Ali+Khan!;AI+Engineer;Machine+Learning+Enthusiast;Web+Developer;Building+Awesome+Projects+🚀" alt="Typing SVG" />
-</p>
-# Hi there 👋 I'm Eman Ali Khan
+Hi there 👋 I'm Eman Ali Khan
 
 ## 💻 AI Engineer | Machine Learning Enthusiast | Web Developer
 
