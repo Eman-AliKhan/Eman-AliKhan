@@ -31,8 +31,18 @@ I'm passionate about Artificial Intelligence, Machine Learning, and building imp
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-00B894?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1E90FF?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-blue?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0A66C2?style=for-the-badge)
+![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-6A5ACD?style=for-the-badge)
+![Retrieval-Augmented Generation](https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/NLP-2ECC71?style=for-the-badge)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-F39C12?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-9B59B6?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ## 📊 GitHub Stats
 
