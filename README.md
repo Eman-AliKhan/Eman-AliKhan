@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Eman Ali Khan
 
-## 💻 AI Engineer | Machine Learning Enthusiast | Web Developer
+## 💻 AI/ML Engineer | Computer Vision | Deep Learning
 
-I'm passionate about Artificial Intelligence, Machine Learning, and building impactful software. I train models, break them, and train them again. Currently building in public. Let's build intelligent system together.
+I'm passionate about Artificial Intelligence, Machine Learning, Computer Vision and building impactful software. I train models, break them, and train them again.
 
 ---
 
