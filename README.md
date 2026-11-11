@@ -1,16 +1,17 @@
 ## Hi there 👋 I'm Eman Ali Khan
 
-## 💻 AI/ML Engineer | Computer Vision | Deep Learning
+## 💻 AI/ML Engineer | Machine Learning | Computer Vision| Deep Learning
 
-I'm passionate about Artificial Intelligence, Machine Learning, Computer Vision and building impactful software. I train models, break them, and train them again.
+I'm passionate about Artificial Intelligence, Machine Learning, Computer Vision and building impactful software and LLM Models. I train models, break them, and train them again.
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science (Artificial Intelligence)
-- 🤖  AI & Machine Learning
-- 🌱 Currently exploring OpenCV and Generative AI
+- 🤖 AI & Machine Learning & LLM Models
+- 📊 Web Scrapping & Strong Python programming skills
+- 🌱 Exploring OpenCV and Generative AI
 - 💻 Building Web Applications
 - 🚀 Always learning new technologies
 
