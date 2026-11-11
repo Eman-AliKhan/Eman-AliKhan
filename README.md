@@ -47,6 +47,4 @@ I'm passionate about Artificial Intelligence, Machine Learning, Computer Vision 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Eman-AliKhan&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eman-AliKhan&layout=compact&theme=tokyonight)
